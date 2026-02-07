@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Valentine",
+  "base_artist": "The Electric Swing Circus",
+  "createdAt": "2026-02-07T16:46:34.041006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Ballad of Michael Valentine",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/01_The_Ballad_of_Michael_Valentine_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gun Will Go Feat Sunny Valentine",
+      "artist": "Wu Tang Clan",
+      "has_synced": true,
+      "path": "select/02_Gun_Will_Go_Feat_Sunny_Valentine_Wu_Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starter Feat Sunny Valentine And Tashmahogany",
+      "artist": "Wu Tang Clan",
+      "has_synced": false,
+      "path": "select/03_Starter_Feat_Sunny_Valentine_And_Tashmahogany_Wu_Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Funny Valentine",
+      "artist": "Miranda Sex Garden",
+      "has_synced": true,
+      "path": "select/04_My_Funny_Valentine_Miranda_Sex_Garden.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Deadbeat Valentine",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/05_Deadbeat_Valentine_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Valentine",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/06_Valentine_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Valentine",
+      "artist": "Chaka Khan",
+      "has_synced": false,
+      "path": "select/07_Valentine_Chaka_Khan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Valentine (Remix Edit)",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/08_Valentine_(Remix_Edit)_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let Me Be Your Valentine",
+      "artist": "Scooter",
+      "has_synced": true,
+      "path": "select/09_Let_Me_Be_Your_Valentine_Scooter.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Valentine",
+      "artist": "The Sisters of Mercy",
+      "has_synced": true,
+      "path": "select/10_Valentine_The_Sisters_of_Mercy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hotel Valentine",
+      "artist": "Cibo Matto",
+      "has_synced": true,
+      "path": "select/11_Hotel_Valentine_Cibo_Matto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Valentine",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/12_Valentine_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Valentine",
+      "artist": "Mr Little Jeans",
+      "has_synced": true,
+      "path": "select/13_Valentine_Mr_Little_Jeans.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Valentine Virus (Acoustic)",
+      "artist": "JONES",
+      "has_synced": true,
+      "path": "select/14_Valentine_Virus_(Acoustic)_JONES.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Summer Love (Feat. Chrissy Valentine)",
+      "artist": "Vincenzo Salvia",
+      "has_synced": false,
+      "path": "select/15_Summer_Love_(Feat._Chrissy_Valentine)_Vincenzo_Salvia.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Valentine",
+      "artist": "The Electric Swing Circus",
+      "has_synced": false,
+      "path": "select/pl_01_Valentine_The_Electric_Swing_Circus.txt"
+    }
+  ]
+}
